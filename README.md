@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @griffim
 
-I hold a B.S. in Chemistry from UC Santa Cruz, and am currently teaching myself Python.
+I hold a B.S. in Chemistry from UC Santa Cruz, and am currently teaching myself C++ and Python.
 
 - 👀 I’m interested in ... building my software engineering repertoire
 - 🌱 I’m currently learning ... Python, C/C++, and Java
