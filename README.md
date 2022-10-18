@@ -2,10 +2,14 @@
 
 I hold a B.S. in Chemistry from UC Santa Cruz, and am currently teaching myself C++ and Python.
 
-- 👀 I’m interested in ... building my software engineering repertoire
-- 🌱 I’m currently learning ... Python, C/C++, and Java
-- 💞️ I’m looking to collaborate on ... any prospective projects to grow my skillset and knowledge
-- 📫 How to reach me ... https://www.linkedin.com/in/griffin-may/
+I am skilled in the technical side of science with an ability to troubleshoot with success.
+
+At UCSC, I focussed on organic chemistry and its relation to biochemistry in vitro and in vivo.
+AT Bristol Myers Squibb, I worked on the automation instruments to product dose response curve assays down to nanoliter and picomolar scale.
+
+
+Feel free to reach out to me on LinkedIn:
+https://www.linkedin.com/in/griffin-may/
 
 <!---
 griffim/griffim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
